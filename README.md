@@ -1,4 +1,4 @@
-# XLPORbnb
+# XPLORbnb
 Collaborative full-stack dashboard for Airbnb data in New York.
 
 ## What is included
