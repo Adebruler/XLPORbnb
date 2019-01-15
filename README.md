@@ -18,10 +18,10 @@ The app hosted on [Heroku](http://xplorbnb.herokuapp.com/)
 This was a collaborative project made in one week for the GT Data Science and Analytics Coding Bootcamp
 
 The team includes:
--[Meghana Bhimasani](https://github.com/mbhimasani)
--[Matthew Cole](https://github.com/matthewcoleka)
--[Adam DeBruler](https://github.com/Adebruler)
--[Romy Robillard](https://github.com/RomyRobi)
--[Jimmy Yu](https://github.com/minqiuyu)
+- [Meghana Bhimasani](https://github.com/mbhimasani)
+- [Matthew Cole](https://github.com/matthewcoleka)
+- [Adam DeBruler](https://github.com/Adebruler)
+- [Romy Robillard](https://github.com/RomyRobi)
+- [Jimmy Yu](https://github.com/minqiuyu)
 
 Please see the [original repository](https://github.com/RomyRobi/Project-2) for the commit history
