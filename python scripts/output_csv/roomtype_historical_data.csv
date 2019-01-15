@@ -1,0 +1,76 @@
+Borough,Room Type,Date,Price
+Bronx,Entire home/apt,2014,135.9078947368421
+Bronx,Entire home/apt,2015,133.18103448275863
+Bronx,Entire home/apt,2016,127.0828729281768
+Bronx,Entire home/apt,2017,127.72946859903382
+Bronx,Entire home/apt,2018,117.57643312101911
+Bronx,Private room,2014,75.64383561643835
+Bronx,Private room,2015,65.94007490636704
+Bronx,Private room,2016,67.44581280788178
+Bronx,Private room,2017,57.91152263374486
+Bronx,Private room,2018,67.96013864818025
+Bronx,Shared room,2014,68.5
+Bronx,Shared room,2015,52.372093023255815
+Bronx,Shared room,2016,56.1875
+Bronx,Shared room,2017,56.291666666666664
+Bronx,Shared room,2018,80.29729729729729
+Brooklyn,Entire home/apt,2014,214.70397422126746
+Brooklyn,Entire home/apt,2015,178.31759789506268
+Brooklyn,Entire home/apt,2016,176.62783079333428
+Brooklyn,Entire home/apt,2017,164.3640295090308
+Brooklyn,Entire home/apt,2018,175.4975369458128
+Brooklyn,Private room,2014,100.42992648802466
+Brooklyn,Private room,2015,78.09792993630573
+Brooklyn,Private room,2016,77.949924887331
+Brooklyn,Private room,2017,70.06055973659454
+Brooklyn,Private room,2018,74.96994127600279
+Brooklyn,Shared room,2014,71.92733564013841
+Brooklyn,Shared room,2015,56.38650306748466
+Brooklyn,Shared room,2016,56.74947807933194
+Brooklyn,Shared room,2017,52.78693181818182
+Brooklyn,Shared room,2018,53.67015706806283
+Manhattan,Entire home/apt,2014,315.60002090301003
+Manhattan,Entire home/apt,2015,238.86518265864822
+Manhattan,Entire home/apt,2016,242.63427704752274
+Manhattan,Entire home/apt,2017,225.44268158473955
+Manhattan,Entire home/apt,2018,242.69571691958586
+Manhattan,Private room,2014,139.6921999065857
+Manhattan,Private room,2015,108.14644351464435
+Manhattan,Private room,2016,105.8616612052999
+Manhattan,Private room,2017,93.63265829274545
+Manhattan,Private room,2018,113.88515196811161
+Manhattan,Shared room,2014,112.87777777777778
+Manhattan,Shared room,2015,87.68307086614173
+Manhattan,Shared room,2016,97.90117252931323
+Manhattan,Shared room,2017,75.11026615969581
+Manhattan,Shared room,2018,88.57373271889401
+Queens,Entire home/apt,2014,168.81967213114754
+Queens,Entire home/apt,2015,141.20730503455084
+Queens,Entire home/apt,2016,141.1562740569669
+Queens,Entire home/apt,2017,136.95961538461538
+Queens,Entire home/apt,2018,145.1791730474732
+Queens,Private room,2014,88.12962962962963
+Queens,Private room,2015,70.03859174001354
+Queens,Private room,2016,69.22591362126246
+Queens,Private room,2017,65.30363423212192
+Queens,Private room,2018,76.15627009646302
+Queens,Shared room,2014,106.68235294117648
+Queens,Shared room,2015,78.54471544715447
+Queens,Shared room,2016,52.96190476190476
+Queens,Shared room,2017,49.52808988764045
+Queens,Shared room,2018,65.8048780487805
+Staten Island,Entire home/apt,2014,374.0615384615385
+Staten Island,Entire home/apt,2015,266.6478873239437
+Staten Island,Entire home/apt,2016,175.76829268292684
+Staten Island,Entire home/apt,2017,190.18333333333334
+Staten Island,Entire home/apt,2018,174.53846153846155
+Staten Island,Private room,2014,72.88679245283019
+Staten Island,Private room,2015,69.51304347826087
+Staten Island,Private room,2016,69.54761904761905
+Staten Island,Private room,2017,65.13207547169812
+Staten Island,Private room,2018,59.77906976744186
+Staten Island,Shared room,2014,41.0
+Staten Island,Shared room,2015,45.0
+Staten Island,Shared room,2016,31.5
+Staten Island,Shared room,2017,14.0
+Staten Island,Shared room,2018,52.6
